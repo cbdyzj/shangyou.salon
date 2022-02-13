@@ -1,0 +1,23 @@
+{
+  "name": "shangyou.salon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbdyzj/shangyou.salon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbdyzj/shangyou.salon/issues"
+  },
+  "homepage": "https://github.com/cbdyzj/shangyou.salon#readme",
+  "devDependencies": {
+    "vue": "^3.2.31"
+  }
+}

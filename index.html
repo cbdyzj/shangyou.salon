@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="上釉,美甲,美睫,嘉兴,平湖,八佰伴">
+    <link rel="icon"
+          href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>💅</text></svg>">
+    <link rel="stylesheet" href="/styles/global.css">
+    <title>上釉｜美甲·美睫沙龙</title>
+</head>
+<body>
+<div id="app">
+    <div class="center"><img src="/images/loading.svg" alt=""></div>
+</div>
+<script>
+    window.addEventListener('error', (err) => {
+        document.querySelector('#app').innerHTML = err.message
+    })
+</script>
+<script src="/third_party/vue.js"></script>
+<script src="/third_party/emotion-css.js"></script>
+<script src="/main.js" type="module"></script>
+</body>
