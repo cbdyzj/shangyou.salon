@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/cbdyzj/shangyou.salon#readme",
   "devDependencies": {
-    "vue": "^3.2.31"
+    "vue": "^3.2.33"
   }
 }
